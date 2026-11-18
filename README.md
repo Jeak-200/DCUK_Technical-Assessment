@@ -34,7 +34,7 @@ Dcuk/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd Dcuk
+   cd DCUK_Technical-Assessment
    ```
 
 2. **Backend Setup**
