@@ -1,0 +1,21 @@
+{
+  "watch": [
+    "controllers",
+    "routes",
+    "models",
+    "middleware",
+    "config",
+    "server.js"
+  ],
+  "ext": "js,json",
+  "ignore": [
+    "node_modules",
+    "public",
+    "*.test.js"
+  ],
+  "exec": "node server.js",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}
+
